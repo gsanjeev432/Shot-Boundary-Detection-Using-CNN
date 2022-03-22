@@ -1,0 +1,4 @@
+ffmpeg
+tensorflow
+opencv-python
+pandas
